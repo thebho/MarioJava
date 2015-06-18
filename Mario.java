@@ -1,4 +1,5 @@
 import java.io.Console;
+import Mario_Java.print;
 
 public class Mario {
 	public Mario() {
